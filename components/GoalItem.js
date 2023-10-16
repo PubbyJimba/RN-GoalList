@@ -21,6 +21,7 @@ const styles = StyleSheet.create({
     margin: 8,
     borderRadius: 6,
     backgroundColor: "#5e0acc",
+    alignItems: "center",
   },
 pressedItem: {
     opacity: 0.5
