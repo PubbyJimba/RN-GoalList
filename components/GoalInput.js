@@ -75,7 +75,8 @@ const styles = StyleSheet.create({
     flexDirection: "row",
   },
   button: {
-    width: "30%",
+    // width: "30%",
+    width: 100,
     marginHorizontal: 8,
   },
 });
